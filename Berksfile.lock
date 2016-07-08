@@ -4,6 +4,6 @@ DEPENDENCIES
     metadata: true
 
 GRAPH
-  eldus-tomcat (0.1.0)
+  eldus-tomcat (0.1.1)
     poise (>= 0.0.0)
   poise (2.7.1)
