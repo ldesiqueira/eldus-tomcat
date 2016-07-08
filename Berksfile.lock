@@ -1,0 +1,9 @@
+DEPENDENCIES
+  eldus-tomcat
+    path: .
+    metadata: true
+
+GRAPH
+  eldus-tomcat (0.1.0)
+    poise (>= 0.0.0)
+  poise (2.7.1)
