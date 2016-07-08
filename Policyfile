@@ -1,0 +1,4 @@
+name "eldus-tomcat"
+default_source :supermarket
+default_source :private_supermarket
+run_list "eldus-tomcat::default"
